@@ -21,9 +21,12 @@ software automation.
   Tampere Finland / Remote
   📞 +358505640555
   📫 santtu.valimaki@mindtoit.fi
+  🔗 https://www.linkedin.com/in/santtu-valimaki/
 </pre>
 
-### Top skills
+<br />
+
+## 🥇 Top skills
 
 <table>
   <tbody>
@@ -74,6 +77,8 @@ software automation.
   </tbody>
 </table>
 
+<br />
+
 ## 💻 Projects
 
 Highlights of accomplished projects where I have been in leading role…
@@ -86,34 +91,34 @@ Software solution for real-time customer impact analysis related to the ITSM Cha
 ### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy
 Design and development of TM Forum Trouble Ticket REST API v4.0.0 for two different Trouble Ticket Management Systems. Data modeling and adaptation to inter-operate with  target Trouble Ticket Management Systems. Building integrations to Trouble Ticket Management Systems. Utilizing Apache Kafka for added resilience and fault tolerance. APIs exposed via Mulesoft Flex Gateway.
 
-Tech: Java, Kotlin, Spring Boot, Kubernetes, Docker, OpenStack, SQL, OracleDB, Kafka, REST, OpenAPI, Swagger, Flex Gateway, Maven, Git, Github, Github Actions, JUnit, Mockito
-
+**Tech:** Java, Kotlin, Spring Boot, Kubernetes, Docker, OpenStack, SQL, OracleDB, Kafka, REST, OpenAPI, Swagger, Flex Gateway, Maven, Git, Github, Github Actions, JUnit, Mockito
 
 ### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy
 Refactored radio access network data analytics to operate on real-time events originating from actual network elements. Solution involves reception of SNMP trap based events from network elements and dispatching to Apache Kafka, Kafka streams based event normalization and enrichment and event sinking to Oracle Exadata.
 
-Tech: Java, Spring Boot, Kubernetes, Docker, OpenStack, SQL, OracleDB, Oracle Spatial, Kafka, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions, OpenTelemetry
+**Tech:** Java, Spring Boot, Kubernetes, Docker, OpenStack, SQL, OracleDB, Oracle Spatial, Kafka, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions, OpenTelemetry
 
 ### SW Architect, Lead Developer | Digia Oyj
 Design and development of API management solution based on Kong Community Edition. API discovery and documentation based on OpenAPI and Swagger UI. 3 tier setup with dev, test and prod -environments. Kong declarative configuration stored in Git. API publication automatized using Jenkins and later on changed to Github Actions. Access control by Kong basic and key authentication, authorization by Kong RBAC. High availability with 3 node setup, Kong DB-less mode and F5 load balancer.
 
-Tech: RHEL, Kontena, Docker, Kong, OpenAPI, Swagger, Git, Github, Github Actions, Jenkins
+**Tech:** RHEL, Kontena, Docker, Kong, OpenAPI, Swagger, Git, Github, Github Actions, Jenkins
 
 ### SW Architect, Lead Developer | Digia Oyj
 Design and development of REST API and  related ETL data integrations to provide data analytics of Radio Access Network for Network Operations Center (NOC) to monitor the operational status. Data analytics exposed also for Finnish Erillisverkot to monitor Virve 2.0 operated on top of the same mobile network. React UI  providing real-time view of radio access network anomalies  for 3rd Party network infrastructure operators.
 
-Tech: Java, Spring Boot, React, Micronaut, Kubernetes, Docker, OpenStack, SQL, OracleDB, Oracle Spatial, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions
+**Tech:** Java, Spring Boot, React, Micronaut, Kubernetes, Docker, OpenStack, SQL, OracleDB, Oracle Spatial, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions
 
 ### SW Architect, Lead Developer | Digia Oyj
 Architecture renewal of monolithic software solution for runtime management of radio access network elements. Fully refactored to comply with cloud based computing on Kubernetes and Docker Swarm. Microservices architecture applied and all the microservices Dockerized. Microservices interfacing with network elements moved to a security hardened network. Apache Kafka used as a messaging bus between API implementations  and the security hardened network.
 
-Tech: Java, Spring Boot, Typescript, Openshift, Docker, Docker Swarm, SQL, OracleDB, REST, OpenAPI, Swagger, Kong, Maven, Jenkins, Git, Github, Github Actions, JUnit, Mockito
+**Tech:** Java, Spring Boot, Typescript, Openshift, Docker, Docker Swarm, SQL, OracleDB, REST, OpenAPI, Swagger, Kong, Maven, Jenkins, Git, Github, Github Actions, JUnit, Mockito
 
 ### SW Architect, Lead Developer | Digia Oyj
 Software solution for analyzing fiber network equipment defect’s root cause based on real-time events originating from network elements. Modeling fiber network topology schema to OrientDB graph database. Development  of related ETL data integrations. Design and implementation of REST APIs to expose fiber network topology  and root cause analysis functionality. Microservices orchestration setup on Kontena platform running in RHEL virtual machine grid. AngularJS UI for browsing fiber network topology and running defect simulations.
 
-Tech: Java, Google Guice, Apache Shiro, AngularJS, Typescript, WebSocket, REST, Docker, Kontena, RHEL, SQL, OrientDB, OracleDB, SNMP, Maven, Jenkins, Git, Github
+**Tech:** Java, Google Guice, Apache Shiro, AngularJS, Typescript, WebSocket, REST, Docker, Kontena, RHEL, SQL, OrientDB, OracleDB, SNMP, Maven, Jenkins, Git, Github
 
+<br />
 
 ## 💼 Work experience
 
@@ -160,6 +165,8 @@ Apr 1999 - May 1999
 
 Development of Teamware ByeDesk Link -product.
 
+<br />
+
 ## 🎓 Education & Courses
 
 M.Sc studies / University of Tampere
@@ -181,6 +188,6 @@ Essentials of Business Administration:
 - Accounting and Finance
 - Business Development and Management
 
-Bachelor of Science, University of Tampere | 2008 Computer Science / Software Engineering
+2008 Bachelor of Science, University of Tampere | Computer Science / Software Engineering
 
-++ Extensive amount of Software Engineering M.Sc studies
+Extensive amount of Software Engineering M.Sc studies
