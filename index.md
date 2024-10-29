@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Software professional
-### _Generalist | Full Stack | DevOps_
+### _Generalist | Full Stack | Agile | DevOps_
 
 I am an experienced software professional with broad expertise ranging from software architecting and hands-on development
 to product and release management. I have worked in multisite and multinational projects and worked as a product owner
@@ -67,7 +67,7 @@ real-time streaming data, data warehousing and analytics, API development and ma
     </tr>
     <tr>
       <td>Methodologies</td>
-      <td>Lean, Agile, Scrum, Kanban, DevOps</td>
+      <td>Agile, Scrum, Kanban, Lean, DevOps</td>
     </tr>    
     <tr>
       <td>Tools</td>
