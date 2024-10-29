@@ -5,15 +5,14 @@ layout: default
 # Software professional
 ### _Generalist | Full Stack | DevOps_
 
-My experience spans from software architecting and hands-on development to product and release management.
-I have worked in multi-site and multinational projects and worked as a product owner for development teams home and
-abroad. I'm quickly capable of grasping new concepts and technologies. I’m both a technology and business minded
-out-of-the-box thinker. Continuous learning, innovation and problem solving fascinates me.
+I am an experienced software professional with broad expertise ranging from software architecting and hands-on development
+to product and release management. I have worked in multisite and multinational projects and worked as a product owner
+for development teams home and abroad. I'm quickly capable of grasping new concepts and technologies. I’m both a technology
+and business minded out-of-the-box thinker. Continuous learning, innovation and problem solving fascinates me.
 
-Most recently I worked in a team providing continuous software development services for a Finnish Telecom operator
-with personal focus on software development, software and data architecture design, system and data integrations,
-data modeling, real-time streaming data, data warehousing and analytics, API development and management and
-software automation.
+Most recently I worked in a team providing software development services for a Finnish Telecom operator with personal focus
+on software development, software and data architecture design, system and data integrations, data modeling,
+real-time streaming data, data warehousing and analytics, API development and management and software automation.
 
 ### Info
 <pre>
@@ -21,12 +20,12 @@ software automation.
   Tampere Finland / Remote
   📞 +358505640555
   📫 santtu.valimaki@mindtoit.fi
-  🔗 https://www.linkedin.com/in/santtu-valimaki/
+  🔗 <a href="https://www.linkedin.com/in/santtu-valimaki/">LinkedIn</a>
 </pre>
 
 <br />
 
-## 🥇 Top skills
+## 🔩 Top skills
 
 <table>
   <tbody>
@@ -67,6 +66,10 @@ software automation.
       <td>JUnit, Mockito</td>
     </tr>
     <tr>
+      <td>Methodologies</td>
+      <td>Lean, Agile, Scrum, Kanban, DevOps</td>
+    </tr>    
+    <tr>
       <td>Tools</td>
       <td>IntelliJ, VS Code, Jira, Confluence</td>
     </tr>
@@ -81,7 +84,7 @@ software automation.
 
 ## 💻 Projects
 
-Highlights of accomplished projects where I have been in leading role…
+Highlights of recent accomplished projects where I have been in leading role…
 
 ### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy
 Software solution for real-time customer impact analysis related to the ITSM Change Management process. Data streaming solution using Apache Kafka for event transmission and analysis. Distributed and concurrent micro-services architecture for high performance. Data modeling and warehousing of analysis results to Oracle Exadata. Design and development of REST API for exposing analysis results for process automations. React UI providing  real-time view to details of planned changes and their computed customer impacts.
@@ -122,13 +125,13 @@ Software solution for analyzing fiber network equipment defect’s root cause ba
 
 ## 💼 Work experience
 
-### Freelance Consultant | Mindtoit Oy
+### Independent Software Consultant | Mindtoit Oy
 Jan 2023 - present
 
 ### Senior Software Engineer | Digia Oyj
 Sep 2013 - Sep 2024
 
-Part of a team providing continuous software development services for a Finnish Telecom operator with personal focus on software development, software and data architecture design, system and data integrations, data modeling, real-time streaming data, data warehousing and analytics, API development and management and software automation.
+Part of a team providing software development services for a Finnish Telecom operator with personal focus on software development, software and data architecture design, system and data integrations, data modeling, real-time streaming data, data warehousing and analytics, API development and management and software automation.
 
 Tech: Java, Google Guice, Apache Shiro, Kotlin, Typescript, Spring Boot, Micronaut, Node.js, AngularJS, React, HTML5, CSS3, WebSocket, JUnit, Mockito, Kubernetes, Docker, OpenStack, SQL, NoSQL, OracleDB, Oracle Spatial, OrientDB, Hazelcast, ELK Stack, Kafka, REST, SOAP, OpenAPI, TM Forum APIs, Swagger, Kong, Flex Gateway, Git, Github, Github Actions, Linux, Jenkins, Maven, Zabbix, OpenTelemetry, IntelliJ, VS Code, Jira, Confluence
 
@@ -138,12 +141,12 @@ Mar 2012 - Aug 2012
 Contributing to Qt open source project.
 
 ### Senior Release Engineer | Nokia Smart Devices
-Jan 2011 - Feb  2012
+Jan 2011 - Feb 2012
 
 Product Owner for Nokia Smart Installer for Symbian. Managing the OTA delivery and deployment of software components to consumer devices. Planning Qt framework updates delivered via Smart Installer, Qt SDK and Nokia Software Update.
 
 ### Product Manager  | Nokia Smart Devices
-Oct 2004 - Dec  2010
+Oct 2004 - Dec 2010
 
 Product Manager of first MIDP Java Runtime and later OSGi based Java Runtime for Symbian. Roadmapping and planning product releases. Managing the whole product lifecycle from requirements capture and feature definition to releasing and collecting market feedback. Producing technical marketing material and 3rd Party developer documentation. Working in customer interface towards 3rd Party developers and mobile operators. Working as a Product Owner for scrum teams in Finland, Czech and India.
 
@@ -169,8 +172,8 @@ Development of Teamware ByeDesk Link -product.
 
 ## 🎓 Education & Courses
 
-M.Sc studies / University of Tampere
-2012-2013 Computer Science / Human-Technology Interaction
+M.Sc studies, University of Tampere
+2012-2013 Computer Science, Human-Technology Interaction
 Human-Technology Interaction:
 - Human Information-Processing and Interactive Technology
 - Interaction Techniques
@@ -191,3 +194,40 @@ Essentials of Business Administration:
 2008 Bachelor of Science, University of Tampere | Computer Science / Software Engineering
 
 Extensive amount of Software Engineering M.Sc studies
+
+<br />
+
+## 📋 Skills breakdown
+
+| Skill                | Level        | Experience | Last used |
+|:---------------------|:-------------|:-----------|:----------|
+| Java                 | Advanced     | 15 years   | 2024      |
+| Kotlin               | Advanced     | 3 years    | 2024      |
+| Typescript           | Intermediate | 3 years    | 2022      |
+| Node.js              | Intermediate | 3 years    | 2022      |
+| HTML5/CSS3           | Intermediate | 6 years    | 2024      |
+| AngularJS            | Intermediate | 3 years    | 2018      |
+| React                | Intermediate | 3 years    | 2024      |
+| Spring Boot          | Advanced     | 5 years    | 2024      |
+| Micronaut            | Intermediate | 3 years    | 2019      |
+| Docker               | Advanced     | 8 years    | 2024      | 
+| Kubernetes           | Advanced     | 5 years    | 2024      |
+| OpenStack            | Intermediate | 5 years    | 2024      |
+| SQL (Oracle Exadata) | Advanced     | 10 years   | 2024      |
+| NoSQL (OrientDB)     | Advanced     | 3 years    | 2020      |
+| ELK Stack            | Intermediate | 5 years    | 2024      |
+| Kafka                | Advanced     | 3 years    | 2024      |
+| REST                 | Advanced     | 10 years   | 2024      |
+| SOAP                 | Intermediate | 10 years   | 2024      |
+| OpenAPI, Swagger     | Advanced     | 6 years    | 2024      |
+| Kong                 | Advanced     | 6 years    | 2024      |
+| JUnit                | Intermediate | 10 years   | 2024      | 
+| Mockito              | Intermediate | 10 years   | 2024      |
+| Maven                | Advanced     | 10 years   | 2024      |
+| Jenkins              | Intermediate | 8 years    | 2022      |
+| Git, Github          | Advanced     | 10 years   | 2024      |
+| Github Actions       | Advanced     | 5 years    | 2024      |
+| Agile, Scrum         | Advanced     | 20 years   | 2024      |
+| Kanban, Lean         | Advanced     | 8 years    | 2024      |
+| DevOps               | Advanced     | 10 years   | 2024      |
+
