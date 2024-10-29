@@ -18,6 +18,7 @@ real-time streaming data, data warehousing and analytics, API development and ma
 <pre>
   Mindtoit Oy
   Tampere Finland / Remote
+  Working languages: 🇫🇮 🇬🇧
   📞 +358505640555
   📫 santtu.valimaki@mindtoit.fi
   🔗 <a href="https://www.linkedin.com/in/santtu-valimaki/">LinkedIn</a>
@@ -230,4 +231,3 @@ Extensive amount of Software Engineering M.Sc studies
 | Agile, Scrum         | Advanced     | 20 years   | 2024      |
 | Kanban, Lean         | Advanced     | 8 years    | 2024      |
 | DevOps               | Advanced     | 10 years   | 2024      |
-
