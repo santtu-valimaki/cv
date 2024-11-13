@@ -76,7 +76,7 @@ real-time streaming data, data warehousing and analytics, API development and ma
     </tr>
     <tr>
       <td>DevOps</td>
-      <td>Kubernetes, Git, GHA, Docker, Linux, Jenkins, Maven</td>
+      <td>Kubernetes, Git, GHA, Docker, Linux, Jenkins, Maven, Ansible, Terraform</td>
     </tr>
   </tbody>
 </table>
@@ -113,9 +113,9 @@ Design and development of REST API and  related ETL data integrations to provide
 **Tech:** Java, Spring Boot, React, Micronaut, Kubernetes, Docker, OpenStack, SQL, OracleDB, Oracle Spatial, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions
 
 ### SW Architect, Lead Developer | Digia Oyj
-Architecture renewal of monolithic software solution for runtime management of radio access network elements. Fully refactored to comply with cloud based computing on Kubernetes and Docker Swarm. Microservices architecture applied and all the microservices Dockerized. Microservices interfacing with network elements moved to a security hardened network. Apache Kafka used as a messaging bus between API implementations  and the security hardened network.
+Architecture renewal of monolithic software solution for runtime management of radio access network elements. Fully refactored to comply with cloud based computing on Kubernetes and Docker Swarm. Microservices architecture applied and all the microservices Dockerized. Microservices interfacing with network elements moved to a security hardened network. Apache Kafka used as a messaging bus between API implementations and the security hardened network.
 
-**Tech:** Java, Spring Boot, Typescript, Openshift, Docker, Docker Swarm, SQL, OracleDB, REST, OpenAPI, Swagger, Kong, Maven, Jenkins, Git, Github, Github Actions, JUnit, Mockito
+**Tech:** Java, Spring Boot, Typescript, Openshift, Docker, Docker Swarm, SQL, OracleDB, REST, OpenAPI, Swagger, Kong, Maven, Jenkins, Git, Github, Github Actions, JUnit, Mockito, Cypress
 
 ### SW Architect, Lead Developer | Digia Oyj
 Software solution for analyzing fiber network equipment defect’s root cause based on real-time events originating from network elements. Modeling fiber network topology schema to OrientDB graph database. Development  of related ETL data integrations. Design and implementation of REST APIs to expose fiber network topology  and root cause analysis functionality. Microservices orchestration setup on Kontena platform running in RHEL virtual machine grid. AngularJS UI for browsing fiber network topology and running defect simulations.
@@ -134,7 +134,7 @@ Sep 2013 - Sep 2024
 
 Part of a team providing software development services for a Finnish Telecom operator with personal focus on software development, software and data architecture design, system and data integrations, data modeling, real-time streaming data, data warehousing and analytics, API development and management and software automation.
 
-Tech: Java, Google Guice, Apache Shiro, Kotlin, Typescript, Spring Boot, Micronaut, Node.js, AngularJS, React, HTML5, CSS3, WebSocket, JUnit, Mockito, Kubernetes, Docker, OpenStack, SQL, NoSQL, OracleDB, Oracle Spatial, OrientDB, Hazelcast, ELK Stack, Kafka, REST, SOAP, OpenAPI, TM Forum APIs, Swagger, Kong, Flex Gateway, Git, Github, Github Actions, Linux, Jenkins, Maven, Zabbix, OpenTelemetry, IntelliJ, VS Code, Jira, Confluence
+Tech: Java, Google Guice, Apache Shiro, Kotlin, Typescript, Spring Boot, Micronaut, Node.js, AngularJS, React, HTML5, CSS3, WebSocket, JUnit, Mockito, Cypress, Kubernetes, Docker, OpenStack, SQL, NoSQL, OracleDB, Oracle Spatial, OrientDB, Hazelcast, ELK Stack, Kafka, REST, SOAP, OpenAPI, TM Forum APIs, Swagger, Kong, Flex Gateway, Git, Github, Github Actions, Linux, Jenkins, Maven, Ansible, Zabbix, OpenTelemetry, IntelliJ, VS Code, Jira, Confluence
 
 ### Senior Software Engineer | Nokia Mobile Phones
 Mar 2012 - Aug 2012
@@ -173,9 +173,21 @@ Development of Teamware ByeDesk Link -product.
 
 ## 🎓 Education & Courses
 
-M.Sc studies, University of Tampere
+Tampere University<br />
+<a href="https://www.tuni.fi/en/students-guide/curriculum/course-units/tut-cu-g-45665">Cloud Technologies</a><br />
+21.10.2024 - 08.12.2024<br />
+CSC OpenStack cPouta and Rahti
+- Virtualization approaches - including containers
+- Cloud-native architectures
+- Scalability
+- Infra-structure as code (Terraform, Ansible)
+- Security aspects of cloud
+- Cost optimization
+- Platform engineering and basics of DevOps
+- Kubernetes
+
+M.Sc studies, Tampere University<br />
 2012-2013 Computer Science, Human-Technology Interaction
-Human-Technology Interaction:
 - Human Information-Processing and Interactive Technology
 - Interaction Techniques
 - User-centered Product Development
@@ -192,7 +204,8 @@ Essentials of Business Administration:
 - Accounting and Finance
 - Business Development and Management
 
-2008 Bachelor of Science, University of Tampere | Computer Science / Software Engineering
+2008 Bachelor of Science, Tampere University<br />
+Computer Science / Software Engineering
 
 Extensive amount of Software Engineering M.Sc studies
 
@@ -224,9 +237,13 @@ Extensive amount of Software Engineering M.Sc studies
 | Kong                 | Advanced     | 6 years    | 2024      |
 | JUnit                | Intermediate | 10 years   | 2024      | 
 | Mockito              | Intermediate | 10 years   | 2024      |
+| Cypress              | Basics       | 1 year     | 2020      |
 | Maven                | Advanced     | 10 years   | 2024      |
 | Jenkins              | Intermediate | 8 years    | 2022      |
 | Git, Github          | Advanced     | 10 years   | 2024      |
+| Github Actions       | Advanced     | 5 years    | 2024      |
+| Ansible              | Intermediate | 2 years    | 2024      |
+| Terraform            | Basics       | 1 year     | 2024      |
 | Github Actions       | Advanced     | 5 years    | 2024      |
 | Agile, Scrum         | Advanced     | 20 years   | 2024      |
 | Kanban, Lean         | Advanced     | 8 years    | 2024      |
