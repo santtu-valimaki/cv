@@ -5,14 +5,7 @@ layout: default
 # Software professional
 ### _Generalist | Full Stack | Agile | DevOps_
 
-I am an experienced software professional with broad expertise ranging from software architecting and hands-on development
-to product and release management. I have worked in multisite and multinational projects and worked as a product owner
-for development teams home and abroad. I'm quickly capable of grasping new concepts and technologies. I’m both a technology
-and business minded out-of-the-box thinker. Continuous learning, innovation and problem solving fascinates me.
-
-Most recently I worked in a team providing software development services for a Finnish Telecom operator with personal focus
-on software development, software and data architecture design, system and data integrations, data modeling,
-real-time streaming data, data warehousing and analytics, API development and management and software automation.
+I am an experienced software professional with versatile expertise ranging from software architecting and hands-on development to product and release management. I have worked in multisite and multinational projects and worked as a product owner for development teams home and abroad. I can take the responsibility of the software architecture design as well as being the lead developer for making it all happen. I’m quickly capable of grasping new concepts and technologies. I’m both a technology and business minded out-of-the-box thinker. Continuous learning, innovation and problem solving fascinates me.
 
 ### Info
 <pre>
@@ -76,7 +69,7 @@ real-time streaming data, data warehousing and analytics, API development and ma
     </tr>
     <tr>
       <td>DevOps</td>
-      <td>Kubernetes, Git, GHA, Docker, Linux, Jenkins, Maven, Ansible, Terraform</td>
+      <td>Kubernetes, Git, GHA, Docker, Linux, Jenkins, Maven, Ansible, Terraform, Helm</td>
     </tr>
   </tbody>
 </table>
@@ -90,17 +83,17 @@ Highlights of recent accomplished projects where I have been in leading role…
 ### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy
 Software solution for real-time customer impact analysis related to the ITSM Change Management process. Data streaming solution using Apache Kafka for event transmission and analysis. Distributed and concurrent micro-services architecture for high performance. Data modeling and warehousing of analysis results to Oracle Exadata. Design and development of REST API for exposing analysis results for process automations. React UI providing  real-time view to details of planned changes and their computed customer impacts.
 
-**Tech:** Java, Spring Boot, React,  Kubernetes, Docker, OpenStack, SQL, OracleDB, Oracle Spatial, ELK Stack, Kafka, REST, OpenAPI, Swagger, Kong, Flex Gateway, Maven, Git, Github, Github Actions
+**Tech:** Java, Spring Boot, React,  Kubernetes, Docker, OpenStack, SQL, OracleDB, Oracle Spatial, ELK Stack, Kafka, REST, OpenAPI, Swagger, Kong, Flex Gateway, Maven, Git, Github, Github Actions, Helm
 
 ### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy
 Design and development of TM Forum Trouble Ticket REST API v4.0.0 for two different Trouble Ticket Management Systems. Data modeling and adaptation to inter-operate with  target Trouble Ticket Management Systems. Building integrations to Trouble Ticket Management Systems. Utilizing Apache Kafka for added resilience and fault tolerance. APIs exposed via Mulesoft Flex Gateway.
 
-**Tech:** Java, Kotlin, Spring Boot, Kubernetes, Docker, OpenStack, SQL, OracleDB, Kafka, REST, OpenAPI, Swagger, Flex Gateway, Maven, Git, Github, Github Actions, JUnit, Mockito
+**Tech:** Java, Kotlin, Spring Boot, Kubernetes, Docker, OpenStack, SQL, OracleDB, Kafka, REST, OpenAPI, Swagger, Flex Gateway, Maven, Git, Github, Github Actions, Helm, JUnit, Mockito
 
 ### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy
 Refactored radio access network data analytics to operate on real-time events originating from actual network elements. Solution involves reception of SNMP trap based events from network elements and dispatching to Apache Kafka, Kafka streams based event normalization and enrichment and event sinking to Oracle Exadata.
 
-**Tech:** Java, Spring Boot, Kubernetes, Docker, OpenStack, SQL, OracleDB, Oracle Spatial, Kafka, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions, OpenTelemetry
+**Tech:** Java, Spring Boot, Kubernetes, Docker, OpenStack, SQL, OracleDB, Oracle Spatial, Kafka, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions, Helm, OpenTelemetry
 
 ### SW Architect, Lead Developer | Digia Oyj
 Design and development of API management solution based on Kong Community Edition. API discovery and documentation based on OpenAPI and Swagger UI. 3 tier setup with dev, test and prod -environments. Kong declarative configuration stored in Git. API publication automatized using Jenkins and later on changed to Github Actions. Access control by Kong basic and key authentication, authorization by Kong RBAC. High availability with 3 node setup, Kong DB-less mode and F5 load balancer.
@@ -108,7 +101,7 @@ Design and development of API management solution based on Kong Community Editio
 **Tech:** RHEL, Kontena, Docker, Kong, OpenAPI, Swagger, Git, Github, Github Actions, Jenkins
 
 ### SW Architect, Lead Developer | Digia Oyj
-Design and development of REST API and  related ETL data integrations to provide data analytics of Radio Access Network for Network Operations Center (NOC) to monitor the operational status. Data analytics exposed also for Finnish Erillisverkot to monitor Virve 2.0 operated on top of the same mobile network. React UI  providing real-time view of radio access network anomalies  for 3rd Party network infrastructure operators.
+Design and development of REST API and related ETL data integrations to provide data analytics of Radio Access Network for Network Operations Center (NOC) to monitor the operational status. Data analytics exposed also for Finnish Erillisverkot to monitor Virve 2.0 operated on top of the same mobile network. React UI  providing real-time view of radio access network anomalies for 3rd Party network infrastructure operators.
 
 **Tech:** Java, Spring Boot, React, Micronaut, Kubernetes, Docker, OpenStack, SQL, OracleDB, Oracle Spatial, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions
 
@@ -134,7 +127,7 @@ Sep 2013 - Sep 2024
 
 Part of a team providing software development services for a Finnish Telecom operator with personal focus on software development, software and data architecture design, system and data integrations, data modeling, real-time streaming data, data warehousing and analytics, API development and management and software automation.
 
-Tech: Java, Google Guice, Apache Shiro, Kotlin, Typescript, Spring Boot, Micronaut, Node.js, AngularJS, React, HTML5, CSS3, WebSocket, JUnit, Mockito, Cypress, Kubernetes, Docker, OpenStack, SQL, NoSQL, OracleDB, Oracle Spatial, OrientDB, Hazelcast, ELK Stack, Kafka, REST, SOAP, OpenAPI, TM Forum APIs, Swagger, Kong, Flex Gateway, Git, Github, Github Actions, Linux, Jenkins, Maven, Ansible, Zabbix, OpenTelemetry, IntelliJ, VS Code, Jira, Confluence
+Tech: Java, Google Guice, Apache Shiro, Kotlin, Typescript, Spring Boot, Micronaut, Node.js, AngularJS, React, HTML5, CSS3, WebSocket, JUnit, Mockito, Cypress, Kubernetes, Docker, OpenStack, SQL, NoSQL, OracleDB, Oracle Spatial, OrientDB, Hazelcast, ELK Stack, Kafka, REST, SOAP, OpenAPI, TM Forum APIs, Swagger, Kong, Flex Gateway, Git, Github, Github Actions, Helm, Linux, Jenkins, Maven, Ansible, Zabbix, OpenTelemetry, IntelliJ, VS Code, Jira, Confluence
 
 ### Senior Software Engineer | Nokia Mobile Phones
 Mar 2012 - Aug 2012
@@ -244,6 +237,7 @@ Extensive amount of Software Engineering M.Sc studies
 | Github Actions       | Advanced     | 5 years    | 2024      |
 | Ansible              | Intermediate | 2 years    | 2024      |
 | Terraform            | Basics       | 1 year     | 2024      |
+| Helm                 | Intermediate | 5 years    | 2024      |
 | Github Actions       | Advanced     | 5 years    | 2024      |
 | Agile, Scrum         | Advanced     | 20 years   | 2024      |
 | Kanban, Lean         | Advanced     | 8 years    | 2024      |
