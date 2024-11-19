@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Software professional
+# Software Professional
 ### _Generalist | Full Stack | Agile | DevOps_
 
 I am an experienced software professional with versatile expertise ranging from software architecting and hands-on development to product and release management. I have worked in multisite and multinational projects and worked as a product owner for development teams home and abroad. I can take the responsibility of the software architecture design as well as being the lead developer for making it all happen. I’m quickly capable of grasping new concepts and technologies. I’m both a technology and business minded out-of-the-box thinker. Continuous learning, innovation and problem solving fascinates me.
