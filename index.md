@@ -5,7 +5,7 @@ layout: default
 # Software Professional
 ### _Generalist | Full Stack | Agile | DevOps_
 
-I am an experienced full-stack developer and software architect with expertise ranging also to product and release management. I can design the solution architecture as well as be the lead developer implementing it from the ground up all the way to the production deployment. I have worked as a product owner for multisite and multinational development teams and as a product manager being responsible for the whole software product lifecycle from requirements capture to final product release. I pursue developer productivity having 20 years of experience from agile methodologies and over 10 years of working in DevOps style. I can quickly grasp new concepts, technologies and domains. I am both a technology and business minded out-of-the-box thinker. Continuous learning, innovation and problem solving inspires me.
+I am an experienced full-stack developer and software architect with expertise ranging to product and release management. I am capable of laying out the solution architecture as well as being the lead developer implementing it from the ground up all the way to the production deployment. I have worked as a product owner for local and offshore development teams and as a product manager been steering the software release strategy and definition starting from requirements capture. 20 years of experience from agile methodologies and over 10 years of working in DevOps style gives strong insight on development productivity. I can quickly grasp new concepts, technologies and domains. I am both a technology and business minded out-of-the-box thinker. Continuous learning, innovation and problem solving inspires me.
 
 ### Info
 <pre>
