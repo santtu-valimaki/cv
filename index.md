@@ -5,7 +5,7 @@ layout: default
 # Software Professional
 ### _Generalist | Full Stack | Agile | DevOps_
 
-I am an experienced full-stack developer and software architect with expertise ranging to product and release management. I am capable of laying out the solution architecture as well as being the lead developer implementing it from the ground up all the way to the production deployment. I have worked as a product owner for local and offshore development teams and as a product manager been steering the software release strategy and definition. I have 20 years of experience from agile methodologies and over 10 years of working in DevOps style. I can quickly grasp new concepts, technologies and domains. I am both a technology and business minded out-of-the-box thinker. Continuous learning, innovation and problem solving inspires me.
+I am an experienced full-stack developer and software architect with expertise ranging to product and release management. I am capable of laying out the solution requirements and architecture as well as being the lead developer implementing it from the ground up all the way to the production deployment. I have worked as a product owner for local and offshore development teams and as a product manager been steering the software release strategy and definition. I have 20 years of experience from agile methodologies and over 10 years of working in DevOps style. I can quickly grasp new concepts, technologies and domains. I am both a technology and business minded out-of-the-box thinker. Continuous learning, innovation and problem solving inspires me.
 
 ### Info
 <pre>
@@ -53,11 +53,11 @@ I am an experienced full-stack developer and software architect with expertise r
     </tr>
     <tr>
       <td>Cloud Platforms</td>
-      <td>OpenStack</td>
+      <td>OpenStack, OpenShift</td>
     </tr>
     <tr>
-      <td>Test Frameworks</td>
-      <td>JUnit, Mockito</td>
+      <td>Code Quality</td>
+      <td>JUnit, Mockito, Sonar, Trivy</td>
     </tr>
     <tr>
       <td>Methodologies</td>
@@ -69,7 +69,7 @@ I am an experienced full-stack developer and software architect with expertise r
     </tr>
     <tr>
       <td>DevOps</td>
-      <td>Kubernetes, Git, GHA, Docker, Linux, Jenkins, Maven, Ansible, Terraform, Helm</td>
+      <td>Kubernetes, Git, GHA, Docker, Linux, Jenkins, Maven, Gradle, Nexus, Ansible, Terraform, Helm</td>
     </tr>
   </tbody>
 </table>
@@ -220,6 +220,7 @@ Extensive amount of Software Engineering M.Sc studies
 | Docker               | Advanced     | 8 years    | 2024      | 
 | Kubernetes           | Advanced     | 5 years    | 2024      |
 | OpenStack            | Intermediate | 5 years    | 2024      |
+| OpenShift            | Intermediate | 2 years    | 2022      |
 | SQL (Oracle Exadata) | Advanced     | 10 years   | 2024      |
 | NoSQL (OrientDB)     | Advanced     | 3 years    | 2020      |
 | ELK Stack            | Intermediate | 5 years    | 2024      |
@@ -228,10 +229,13 @@ Extensive amount of Software Engineering M.Sc studies
 | SOAP                 | Intermediate | 10 years   | 2024      |
 | OpenAPI, Swagger     | Advanced     | 6 years    | 2024      |
 | Kong                 | Advanced     | 6 years    | 2024      |
+| Anypoint Flex Gateway| Intermediate | 2 years    | 2024      |
 | JUnit                | Intermediate | 10 years   | 2024      | 
 | Mockito              | Intermediate | 10 years   | 2024      |
 | Cypress              | Basics       | 1 year     | 2020      |
+| SonarQube/Lint       | Intermediate | 5 years    | 2024      |
 | Maven                | Advanced     | 10 years   | 2024      |
+| Gradle               | Basics       | 2 years    | 2024      |
 | Jenkins              | Intermediate | 8 years    | 2022      |
 | Git, Github          | Advanced     | 10 years   | 2024      |
 | Github Actions       | Advanced     | 5 years    | 2024      |
