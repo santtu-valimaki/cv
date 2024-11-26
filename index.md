@@ -69,7 +69,7 @@ I am an experienced full-stack developer and software architect with expertise r
     </tr>
     <tr>
       <td>DevOps</td>
-      <td>Kubernetes, Git, GHA, Docker, Linux, Jenkins, Maven, Gradle, Nexus, Ansible, Terraform, Helm</td>
+      <td>Kubernetes, Git, GHA, Docker, Harbor, Linux, Jenkins, Maven, Gradle, Nexus, Ansible, Terraform, Helm</td>
     </tr>
   </tbody>
 </table>
@@ -83,17 +83,27 @@ Highlights of recent accomplished projects where I have been in leading role…
 ### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy
 Software solution for real-time customer impact analysis related to the ITSM Change Management process. Data streaming solution using Apache Kafka for event transmission and analysis. Distributed and concurrent micro-services architecture for high performance. Data modeling and warehousing of analysis results to Oracle Exadata. Design and development of REST API for exposing analysis results for process automations. React UI providing  real-time view to details of planned changes and their computed customer impacts.
 
-**Tech:** Java, Spring Boot, React,  Kubernetes, Docker, OpenStack, SQL, OracleDB, Oracle Spatial, ELK Stack, Kafka, REST, OpenAPI, Swagger, Kong, Flex Gateway, Maven, Git, Github, Github Actions, Helm
+**Tech:** Java, Spring Boot, React,  Kubernetes, Docker, Harbor, Trivy, OpenStack, SQL, OracleDB, Oracle Spatial, ELK Stack, Kafka, REST, OpenAPI, Swagger, Kong, Flex Gateway, Maven, Gradle, Git, Github, Github Actions, Helm, JUnit, Mockito, SonarLint
 
 ### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy
 Design and development of TM Forum Trouble Ticket REST API v4.0.0 for two different Trouble Ticket Management Systems. Data modeling and adaptation to inter-operate with  target Trouble Ticket Management Systems. Building integrations to Trouble Ticket Management Systems. Utilizing Apache Kafka for added resilience and fault tolerance. APIs exposed via Mulesoft Flex Gateway.
 
-**Tech:** Java, Kotlin, Spring Boot, Kubernetes, Docker, OpenStack, SQL, OracleDB, Kafka, REST, OpenAPI, Swagger, Flex Gateway, Maven, Git, Github, Github Actions, Helm, JUnit, Mockito
+**Tech:** Java, Kotlin, Spring Boot, Kubernetes, Docker, Harbor, Trivy, OpenStack, SQL, OracleDB, Kafka, REST, OpenAPI, Swagger, Flex Gateway, Maven, Gradle, Git, Github, Github Actions, Helm, JUnit, Mockito, SonarLint
 
 ### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy
 Refactored radio access network data analytics to operate on real-time events originating from actual network elements. Solution involves reception of SNMP trap based events from network elements and dispatching to Apache Kafka, Kafka streams based event normalization and enrichment and event sinking to Oracle Exadata.
 
-**Tech:** Java, Spring Boot, Kubernetes, Docker, OpenStack, SQL, OracleDB, Oracle Spatial, Kafka, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions, Helm, OpenTelemetry
+**Tech:** Java, Spring Boot, Kubernetes, Docker, Harbor, Trivy, OpenStack, SQL, OracleDB, Oracle Spatial, Kafka, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions, Helm, OpenTelemetry, JUnit, Mockito, SonarLint
+
+### SW Architect, Lead Developer | Digia Oyj
+Design and development of REST API and related ETL data integrations to provide data analytics of Radio Access Network for Network Operations Center (NOC) to monitor the operational status. Data analytics exposed also for Finnish Erillisverkot to monitor Virve 2.0 operated on top of the same mobile network. React UI  providing real-time view of radio access network anomalies for 3rd Party network infrastructure operators.
+
+**Tech:** Java, Spring Boot, React, Micronaut, Kubernetes, Docker, Harbor, Trivy, OpenStack, SQL, OracleDB, Oracle Spatial, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions, JUnit, Mockito, SonarLint
+
+### SW Architect, Lead Developer | Digia Oyj
+Architecture renewal of monolithic software solution for runtime management of radio access network elements. Fully refactored to comply with cloud based computing on Kubernetes and Docker Swarm. Microservices architecture applied and all the microservices Dockerized. Microservices interfacing with network elements moved to a security hardened network. Apache Kafka used as a messaging bus between API implementations and the security hardened network.
+
+**Tech:** Java, Spring Boot, Typescript, Openshift, Docker, Docker Swarm, SQL, OracleDB, REST, OpenAPI, Swagger, Kong, Maven, Nexus, Jenkins, Git, Github, Github Actions, JUnit, Mockito, Cypress, SonarLint
 
 ### SW Architect, Lead Developer | Digia Oyj
 Design and development of API management solution based on Kong Community Edition. API discovery and documentation based on OpenAPI and Swagger UI. 3 tier setup with dev, test and prod -environments. Kong declarative configuration stored in Git. API publication automatized using Jenkins and later on changed to Github Actions. Access control by Kong basic and key authentication, authorization by Kong RBAC. High availability with 3 node setup, Kong DB-less mode and F5 load balancer.
@@ -101,19 +111,9 @@ Design and development of API management solution based on Kong Community Editio
 **Tech:** RHEL, Kontena, Docker, Kong, OpenAPI, Swagger, Git, Github, Github Actions, Jenkins
 
 ### SW Architect, Lead Developer | Digia Oyj
-Design and development of REST API and related ETL data integrations to provide data analytics of Radio Access Network for Network Operations Center (NOC) to monitor the operational status. Data analytics exposed also for Finnish Erillisverkot to monitor Virve 2.0 operated on top of the same mobile network. React UI  providing real-time view of radio access network anomalies for 3rd Party network infrastructure operators.
-
-**Tech:** Java, Spring Boot, React, Micronaut, Kubernetes, Docker, OpenStack, SQL, OracleDB, Oracle Spatial, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions
-
-### SW Architect, Lead Developer | Digia Oyj
-Architecture renewal of monolithic software solution for runtime management of radio access network elements. Fully refactored to comply with cloud based computing on Kubernetes and Docker Swarm. Microservices architecture applied and all the microservices Dockerized. Microservices interfacing with network elements moved to a security hardened network. Apache Kafka used as a messaging bus between API implementations and the security hardened network.
-
-**Tech:** Java, Spring Boot, Typescript, Openshift, Docker, Docker Swarm, SQL, OracleDB, REST, OpenAPI, Swagger, Kong, Maven, Jenkins, Git, Github, Github Actions, JUnit, Mockito, Cypress
-
-### SW Architect, Lead Developer | Digia Oyj
 Software solution for analyzing fiber network equipment defect’s root cause based on real-time events originating from network elements. Modeling fiber network topology schema to OrientDB graph database. Development  of related ETL data integrations. Design and implementation of REST APIs to expose fiber network topology  and root cause analysis functionality. Microservices orchestration setup on Kontena platform running in RHEL virtual machine grid. AngularJS UI for browsing fiber network topology and running defect simulations.
 
-**Tech:** Java, Google Guice, Apache Shiro, AngularJS, Typescript, WebSocket, REST, Docker, Kontena, RHEL, SQL, OrientDB, OracleDB, SNMP, Maven, Jenkins, Git, Github
+**Tech:** Java, Google Guice, Apache Shiro, AngularJS, Typescript, WebSocket, REST, Docker, Kontena, RHEL, SQL, OrientDB, OracleDB, SNMP, Maven, Nexus, Jenkins, Git, Github, JUnit, Mockito, SonarLint
 
 <br />
 
@@ -127,7 +127,7 @@ Sep 2013 - Sep 2024
 
 Part of a team providing software development services for a Finnish Telecom operator with personal focus on software development, software and data architecture design, system and data integrations, data modeling, real-time streaming data, data warehousing and analytics, API development and management and software automation.
 
-Tech: Java, Google Guice, Apache Shiro, Kotlin, Typescript, Spring Boot, Micronaut, Node.js, AngularJS, React, HTML5, CSS3, WebSocket, JUnit, Mockito, Cypress, Kubernetes, Docker, OpenStack, SQL, NoSQL, OracleDB, Oracle Spatial, OrientDB, Hazelcast, ELK Stack, Kafka, REST, SOAP, OpenAPI, TM Forum APIs, Swagger, Kong, Flex Gateway, Git, Github, Github Actions, Helm, Linux, Jenkins, Maven, Ansible, Zabbix, OpenTelemetry, IntelliJ, VS Code, Jira, Confluence
+Tech: Java, Google Guice, Apache Shiro, Kotlin, Typescript, Spring Boot, Micronaut, Node.js, AngularJS, React, HTML5, CSS3, WebSocket, JUnit, Mockito, Cypress, SonarQube, SonarLint, Kubernetes, Docker, Harbor, Trivy, OpenStack, SQL, NoSQL, OracleDB, Oracle Spatial, OrientDB, Hazelcast, ELK Stack, Kafka, REST, SOAP, OpenAPI, TM Forum APIs, Swagger, Kong, Flex Gateway, Git, Github, Github Actions, Helm, Linux, Jenkins, Nexus, Maven, Gradle, Ansible, Zabbix, OpenTelemetry, IntelliJ, VS Code, Jira, Confluence
 
 ### Senior Software Engineer | Nokia Mobile Phones
 Mar 2012 - Aug 2012
