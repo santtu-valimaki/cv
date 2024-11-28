@@ -96,7 +96,7 @@ Refactored radio access network data analytics to operate on real-time events or
 **Tech:** Java, Spring Boot, Kubernetes, Docker, Harbor, Trivy, OpenStack, SQL, OracleDB, Oracle Spatial, Kafka, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions, Helm, OpenTelemetry, JUnit, Mockito, SonarLint
 
 ### SW Architect, Lead Developer | Digia Oyj
-Design and development of REST API and related ETL data integrations to provide data analytics of Radio Access Network for Network Operations Center (NOC) to monitor the operational status. Data analytics exposed also for Finnish Erillisverkot to monitor Virve 2.0 operated on top of the same mobile network. React UI  providing real-time view of radio access network anomalies for 3rd Party network infrastructure operators.
+Design and development of REST API and related ETL data integrations to provide data analytics of Radio Access Network for Network Operations Center (NOC) to monitor the operational status. Data analytics exposed also for Finnish state-owned critical communications company. React UI  providing real-time view of radio access network anomalies for 3rd Party network infrastructure operators.
 
 **Tech:** Java, Spring Boot, React, Micronaut, Kubernetes, Docker, Harbor, Trivy, OpenStack, SQL, OracleDB, Oracle Spatial, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions, JUnit, Mockito, SonarLint
 
