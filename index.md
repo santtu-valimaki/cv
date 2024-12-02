@@ -103,17 +103,17 @@ Design and development of REST API and related ETL data integrations to provide 
 
 **Tech:** Java, Spring Boot, React, Micronaut, Kubernetes, Docker, Harbor, Trivy, OpenStack, SQL, OracleDB, Oracle Spatial, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions, JUnit, Mockito, SonarLint
 
-### SW Architect, Lead Developer | Digia Oyj
+### Lead Developer | Digia Oyj
 Architecture renewal of monolithic software solution for runtime management of radio access network elements. Fully refactored to comply with cloud based computing on Kubernetes and Docker Swarm. Microservices architecture applied and all the microservices Dockerized. Microservices interfacing with network elements moved to a security hardened network. Apache Kafka used as a messaging bus between API implementations and the security hardened network.
 
 **Tech:** Java, Spring Boot, Typescript, Openshift, Docker, Docker Swarm, SQL, OracleDB, REST, OpenAPI, Swagger, Kong, Maven, Nexus, Jenkins, Git, Github, Github Actions, JUnit, Mockito, Cypress, SonarLint
 
-### SW Architect, Lead Developer | Digia Oyj
+### Lead Developer | Digia Oyj
 Design and development of API management solution based on Kong Community Edition. API discovery and documentation based on OpenAPI and Swagger UI. API publication automatized using Jenkins and later on changed to Github Actions. Access control by Kong basic and key authentication, authorization by Kong RBAC. High availability with multi-node setup, Kong DB-less mode and F5 load balancer.
 
 **Tech:** RHEL, Kontena, Docker, Kong, OpenAPI, Swagger, Git, Github, Github Actions, Jenkins
 
-### SW Architect, Lead Developer | Digia Oyj
+### Lead Developer | Digia Oyj
 Software solution for analyzing fiber network equipment defect’s root cause based on real-time events originating from network elements. Modeling fiber network topology schema to OrientDB graph database. Development  of related ETL data integrations. Design and implementation of REST APIs to expose fiber network topology  and root cause analysis functionality. Microservices orchestration setup on Kontena platform running in RHEL virtual machine grid. AngularJS UI for browsing fiber network topology and running defect simulations.
 
 **Tech:** Java, Google Guice, Apache Shiro, AngularJS, Typescript, WebSocket, REST, Docker, Kontena, RHEL, SQL, OrientDB, OracleDB, SNMP, Maven, Nexus, Jenkins, Git, Github, JUnit, Mockito, SonarLint
