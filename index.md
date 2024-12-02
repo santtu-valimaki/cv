@@ -78,19 +78,22 @@ I am an experienced full-stack developer and software architect with expertise r
 
 ## 💻 Projects
 
-Highlights of recent accomplished projects where I have been in leading role…
+Highlights of recent projects...
 
-### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy
-Software solution for real-time customer impact analysis related to the ITSM Change Management process. Data streaming solution using Apache Kafka for event transmission and analysis. Distributed and concurrent micro-services architecture for high performance. Data modeling and warehousing of analysis results to Oracle Exadata. Design and development of REST API for exposing analysis results for process automations. React UI providing  real-time view to details of planned changes and their computed customer impacts.
+### Software Developer | Finitec Oy | Mindtoit Oy <br><sup>Dec 2024 - present</sup>
+Mobile Services, Financial Sector.
 
-**Tech:** Java, Spring Boot, React,  Kubernetes, Docker, Harbor, Trivy, OpenStack, SQL, OracleDB, Oracle Spatial, ELK Stack, Kafka, REST, OpenAPI, Swagger, Kong, Flex Gateway, Maven, Gradle, Git, Github, Github Actions, Helm, JUnit, Mockito, SonarLint
-
-### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy
+### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy <br><sup>Aug 2023 - Sep 2024</sup>
 Design and development of TM Forum Trouble Ticket REST API v4.0.0 for two different Trouble Ticket Management Systems. Data modeling and adaptation to inter-operate with  target Trouble Ticket Management Systems. Building integrations to Trouble Ticket Management Systems. Utilizing Apache Kafka for added resilience and fault tolerance. APIs exposed via Mulesoft Flex Gateway.
 
 **Tech:** Java, Kotlin, Spring Boot, Kubernetes, Docker, Harbor, Trivy, OpenStack, SQL, OracleDB, Kafka, REST, OpenAPI, Swagger, Flex Gateway, Maven, Gradle, Git, Github, Github Actions, Helm, JUnit, Mockito, SonarLint
 
-### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy
+### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy <br><sup>Aug 2023 - Jul 2024</sup>
+Software solution for real-time customer impact analysis related to the ITSM Change Management process. Data streaming solution using Apache Kafka for event transmission and analysis. Distributed and concurrent micro-services architecture for high performance. Data modeling and warehousing of analysis results to Oracle Exadata. Design and development of REST API for exposing analysis results for process automations. React UI providing  real-time view to details of planned changes and their computed customer impacts.
+
+**Tech:** Java, Spring Boot, React,  Kubernetes, Docker, Harbor, Trivy, OpenStack, SQL, OracleDB, Oracle Spatial, ELK Stack, Kafka, REST, OpenAPI, Swagger, Kong, Flex Gateway, Maven, Gradle, Git, Github, Github Actions, Helm, JUnit, Mockito, SonarLint
+
+### SW Architect, Lead Developer | Digia Oyj | Mindtoit Oy <br><sup>Jan 2023 - Sep 2023</sup>
 Refactored radio access network data analytics to operate on real-time events originating from actual network elements. Solution involves reception of SNMP trap based events from network elements and dispatching to Apache Kafka, Kafka streams based event normalization and enrichment and event sinking to Oracle Exadata.
 
 **Tech:** Java, Spring Boot, Kubernetes, Docker, Harbor, Trivy, OpenStack, SQL, OracleDB, Oracle Spatial, Kafka, REST, OpenAPI, Swagger, Kong, Maven, Git, Github, Github Actions, Helm, OpenTelemetry, JUnit, Mockito, SonarLint
@@ -106,7 +109,7 @@ Architecture renewal of monolithic software solution for runtime management of r
 **Tech:** Java, Spring Boot, Typescript, Openshift, Docker, Docker Swarm, SQL, OracleDB, REST, OpenAPI, Swagger, Kong, Maven, Nexus, Jenkins, Git, Github, Github Actions, JUnit, Mockito, Cypress, SonarLint
 
 ### SW Architect, Lead Developer | Digia Oyj
-Design and development of API management solution based on Kong Community Edition. API discovery and documentation based on OpenAPI and Swagger UI. 3 tier setup with dev, test and prod -environments. Kong declarative configuration stored in Git. API publication automatized using Jenkins and later on changed to Github Actions. Access control by Kong basic and key authentication, authorization by Kong RBAC. High availability with 3 node setup, Kong DB-less mode and F5 load balancer.
+Design and development of API management solution based on Kong Community Edition. API discovery and documentation based on OpenAPI and Swagger UI. API publication automatized using Jenkins and later on changed to Github Actions. Access control by Kong basic and key authentication, authorization by Kong RBAC. High availability with multi-node setup, Kong DB-less mode and F5 load balancer.
 
 **Tech:** RHEL, Kontena, Docker, Kong, OpenAPI, Swagger, Git, Github, Github Actions, Jenkins
 
@@ -123,7 +126,7 @@ Software solution for analyzing fiber network equipment defect’s root cause ba
 Jan 2023 - present
 
 ### Senior Software Engineer | Digia Oyj
-Sep 2013 - Sep 2024
+Sep 2013 - Dec 2022
 
 Part of a team providing software development services for a Finnish Telecom operator with personal focus on software development, software and data architecture design, system and data integrations, data modeling, real-time streaming data, data warehousing and analytics, API development and management and software automation.
 
