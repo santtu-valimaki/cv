@@ -19,7 +19,7 @@ I am an experienced full-stack developer and software architect with expertise r
 
 <br />
 
-## 🔩 Top skills
+## 🔩 Tech skills
 
 <table>
   <tbody>
